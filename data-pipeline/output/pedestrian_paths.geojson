@@ -1,0 +1,205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "osm_way_1054354523",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.9839346,
+            12.9044522
+          ],
+          [
+            74.9836729,
+            12.9034596
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054354523",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm_way_1054354524",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.9867649,
+            12.9027159
+          ],
+          [
+            74.9869838,
+            12.90282
+          ],
+          [
+            74.9870448,
+            12.9028398
+          ],
+          [
+            74.9871668,
+            12.90282
+          ],
+          [
+            74.987618,
+            12.9026377
+          ],
+          [
+            74.9880002,
+            12.9024753
+          ],
+          [
+            74.9881343,
+            12.9023603
+          ],
+          [
+            74.9881547,
+            12.902285
+          ],
+          [
+            74.9881506,
+            12.9022216
+          ],
+          [
+            74.9878344,
+            12.9013483
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054354524",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm_way_1054632970",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.981514,
+            12.8988577
+          ],
+          [
+            74.9812291,
+            12.89756
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054632970",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm_way_1054632971",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.9823831,
+            12.8987495
+          ],
+          [
+            74.9825258,
+            12.899032
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054632971",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm_way_1054632972",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.9826623,
+            12.8986026
+          ],
+          [
+            74.9828637,
+            12.8990476
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054632972",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "osm_way_1054632973",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            74.9829694,
+            12.8984853
+          ],
+          [
+            74.9831802,
+            12.8989927
+          ]
+        ]
+      },
+      "properties": {
+        "path_id": "osm_way_1054632973",
+        "highway": "residential",
+        "surface": "unknown",
+        "incline": "unknown",
+        "stairs": "unknown",
+        "ramp": "unknown",
+        "wheelchair_access": "unknown",
+        "source": "openstreetmap",
+        "verification_status": "unverified"
+      }
+    }
+  ]
+}
